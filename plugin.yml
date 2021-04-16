@@ -1,0 +1,6 @@
+name: ScoreBoard-4.0.0
+main: ScoreTMD\Main
+author: TheModDev
+api: [4.0.0, 5.0.0]
+version: 1.0
+website: https://github.com/TheModDev-bot
